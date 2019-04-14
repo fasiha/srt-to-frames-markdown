@@ -1,0 +1,5 @@
+*.jpg
+*.html
+cmds.sh
+subs.md
+node_modules/
